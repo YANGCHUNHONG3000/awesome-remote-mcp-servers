@@ -2282,7 +2282,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Internet traffic, routing, and security trends from Cloudflare Radar.
 - [CN Evidence](https://cnevidence.com) `https://mcp.cnevidence.com/mcp`
   [![CN Evidence MCP connector](https://glama.ai/mcp/connectors/dev.workers.mikeyang7789.cn-evidence-mcp-public/cn-evidence-china-supplier-due-diligence/badges/score.svg)](https://glama.ai/mcp/connectors/dev.workers.mikeyang7789.cn-evidence-mcp-public/cn-evidence-china-supplier-due-diligence)
-  🔓 - 64 individually paid Chinese company data tools at 0.011 USDC per call via MCP/x402, plus legacy Basic/Full. Separate HTTP x402 products: Standard screening 0.29, Enhanced screening 0.59, QCC qualifications JSON 0.03 USDC. [Product scope and prices](https://yangchunhong3000.github.io/cn-evidence-public-docs/products.html); selected records, not full due diligence or a safety verdict.
+  🔓 - Chinese company data via MCP and screening reports via HTTP, with pay-per-call x402 [pricing](https://yangchunhong3000.github.io/cn-evidence-public-docs/products.html).
 - [cn-intel-mcp](https://github.com/lory69060/cn-intel-mcp) `https://cn-intel-mcp.lory69060.workers.dev/mcp`
   [![cn-intel-mcp MCP connector](https://glama.ai/mcp/connectors/dev.workers.lory69060.cn-intel-mcp/cn-intel-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.workers.lory69060.cn-intel-mcp/cn-intel-mcp)
   🔓 - China hard-tech supply-chain signals with a track record: chips, batteries, eVTOL and pharma.
